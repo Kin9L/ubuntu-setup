@@ -1,0 +1,20 @@
+{
+  "lastChangelogVersion": "0.86.1",
+  "collapseChangelog": true,
+  "enableAnalytics": false,
+  "enableInstallTelemetry": false,
+  "externalEditor": "vim",
+  "hideThinkingBlock": true,
+  "quietStartup": false,
+  "packages": [
+    "npm:pi-subagents",
+    "npm:pi-image-preview",
+    "npm:@narumitw/pi-btw",
+    "npm:pi-web-core",
+    "npm:pi-context-view",
+    "npm:@dreki-gg/pi-handoff"
+  ],
+  "terminal": {
+    "showImages": true
+  }
+}
